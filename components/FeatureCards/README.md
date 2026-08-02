@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FeatureCards
 
 `FeatureCards` is a framework-free Web Component for the Vierelle luxury beauty site. It displays three editorial feature cards with a responsive grid and the required hover treatment.
@@ -65,3 +66,6 @@ The component creates text with DOM APIs rather than interpolating HTML, so titl
 - The component's CSS has desktop (three-column), tablet (two-column), and mobile (one-column) layouts.
 - Hover motion is enabled only on fine pointers. Visitors who prefer reduced motion receive no transition.
 - Do not embed essential page headings or primary navigation inside the component; Wix should retain the page's semantic heading structure.
+=======
+
+>>>>>>> 51a9d6483145f70c889703b181992015038a1f98

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * Vierelle Feature Cards web component.
  *
@@ -140,3 +141,6 @@
     customElements.define("vierelle-feature-cards", VierelleFeatureCards);
   }
 })();
+=======
+
+>>>>>>> 51a9d6483145f70c889703b181992015038a1f98
