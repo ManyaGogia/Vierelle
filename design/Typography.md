@@ -1,14 +1,13 @@
 # Typography
 
-Hero
-
+#Hero
 Cormorant Garamond
 
-Headings
+#Headings
 Cormorant Garamond
 
-Body
+#Body
 DM Sans
 
-Buttons
+#Buttons
 DM Sans Medium
