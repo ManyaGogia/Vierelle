@@ -1,6 +1,7 @@
 # Typography
 
 Hero
+
 Cormorant Garamond
 
 Headings
